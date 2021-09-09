@@ -1,0 +1,70 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 40px;
+    color: #363958;
+}
+h2{
+    font-size: 30px;
+    color: #363958;
+}
+p{
+    color: dimgray;
+    padding-bottom: 2%;
+}
+.light-red{
+    color: #FF8367;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 500px;
+    padding-bottom: 20px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(150deg, rgb(250, 130, 83), tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.column{
+    background-color: white;
+    border-radius: 5px;
+    height: 300px;
+    padding: 10px;
+}
+.column img{
+    height: 213 px;
+    width: 343 px;
+}
+.row{
+    display: flex;
+}
+#card{
+    padding bottom: 500px;
+}
+.cta{
+    padding: 40px;
+    margin-top: 30%;
+    background-image: url("images/Group_33094_1.png");
+    background-repeat: no-repeat;
+}
+#text-left{
+    text-align: left;
+}
+.text-h1{
+    color: white;
+}
+footer{
+    align-items: center;
+}
